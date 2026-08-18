@@ -216,3 +216,10 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# micropico
+.vscode
+.micropico
+
+# mac
+.DS_Store

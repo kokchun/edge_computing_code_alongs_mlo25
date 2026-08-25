@@ -23,5 +23,6 @@ def connect_wifi(waiting_time = 10):
         print("Try to connect to wifi, waitu a little bit")
         time.sleep(2)
 
+
     return wlan.isconnected()
 

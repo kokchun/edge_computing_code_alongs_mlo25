@@ -5,4 +5,5 @@ status_led = Pin(15,1)
 
 if connect_wifi():
     status_led.value(1)
-
+else: 
+    status_led.value(0)

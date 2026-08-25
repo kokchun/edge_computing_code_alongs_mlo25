@@ -25,4 +25,3 @@ def connect_wifi(waiting_time = 10):
 
     return wlan.isconnected()
 
-print(credentials)
